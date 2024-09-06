@@ -1,1 +1,1 @@
-# CryptolionUzBot
+# CryptoLionUzBot
